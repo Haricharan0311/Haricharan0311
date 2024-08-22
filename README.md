@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haricharan Bharathi</h1>
-<h3 align="center">An undergrad student from Sri Sivasubramaniya Nadar College of Engineering</h3>
+<h3 align="center">A graduate student at NC State</h3>
 
 - 📫 How to reach me **haricb03@gmail.com**
 
