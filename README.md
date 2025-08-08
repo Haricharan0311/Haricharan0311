@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/haricharan-bharathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haricharan bharathi" height="30" width="40" /></a>
   <p>Check out my Portfolio:</p>
-  https://haricharan0311.github.io/Haricharan/
+  <a href="https://haricharan0311.github.io/Haricharan/" target="blank">Portfolio</a>
 </p>
 
 
